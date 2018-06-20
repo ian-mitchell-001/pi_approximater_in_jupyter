@@ -51,7 +51,7 @@ plt.grid
 plt.title('Approximation for π')
 # Plot the approximation
 
-plt.savefig('pi.pdf')
+plt.savefig('pi.jpg')
 
 # ----
 
